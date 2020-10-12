@@ -1,4 +1,4 @@
-module github.com/cepter/bluto
+module github.com/cep-ter/bluto
 
 go 1.14
 
