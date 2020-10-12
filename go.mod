@@ -1,4 +1,4 @@
-module github.com/alibaba-go/bluto
+module github.com/cepter/bluto
 
 go 1.14
 
